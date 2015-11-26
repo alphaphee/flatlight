@@ -13,6 +13,7 @@ The supported icon sizes are the following:
 - 96x96
 - 128x128
 - Scalable (svg format)
+
 *HiDpi support will arrive at a later stage.*
 
 #Priorities
@@ -23,6 +24,7 @@ The theme is under heavy work in progress. The icon creation priorities are the 
 - status
 - action
 - my favorite applications
+
 *After the work on these fronts is complete I will start accepting icon requests.*
 
 #License

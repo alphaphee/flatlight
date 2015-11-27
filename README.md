@@ -11,7 +11,7 @@ The supported icon sizes are the following:
 - 48x48
 - 64x64
 - 96x96
-- 128x128
+- 192x192
 - Scalable (svg format)
 
 *HiDpi support will arrive at a later stage.*

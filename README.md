@@ -25,6 +25,8 @@ The theme is under heavy work in progress. The icon creation priorities are the 
 - action
 - my favorite applications
 
+Also, note that the **flatlight** icon theme is firstly built around [Solus Operating System](http://solus-project.com), since it is what I use myself.
+
 *After the work on these fronts is complete I will start accepting icon requests.*
 
 ###License
